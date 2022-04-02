@@ -61,8 +61,7 @@ OS = 커널 + 시스템 프로세스(커널이 만든 프로세스) + 라이브�
 
 4. 스레드의 구성 요소
 ▶︎ 고유 ID, 프로그램 카운터(PC), 레지스터 집합, 스택을 가지고 있는 코드, 데이터 및 OS 리소스 
-
-<img width="317" alt="image" src="https://user-images.githubusercontent.com/60414900/161372996-b49b47e5-d793-454c-9d85-a9870b7ff7f2.png">
+<img width="558" alt="image" src="https://user-images.githubusercontent.com/60414900/161373044-3c8ba910-b303-4c08-8b42-33678e792561.png">
 
 스레드마다 고유한 자원(PC, 레지스터 집합, 스택)을 갖는 이유는 독립적인 함수 호출을 가능하게 하여 독립적인 실행 흐름을 갖기 위해서 입니다. 이러한 특징으로 인해 멀티 스레딩이 가능합니다.
 
