@@ -6,7 +6,7 @@ https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 ## 목차 
 - Operating System (운영체제)
 
-### Operating System (운영체제)
+### <summary>Operating System (운영체제)</summary>
 - [프로세스와 스레드의 차이](Operating-System/Process_Thread_Difference.md)
 - [멀티스레드](Operating-System/MultiThread.md)
 - [스케줄러](Operating-System/Scheduler.md)
