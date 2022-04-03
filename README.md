@@ -13,6 +13,6 @@ https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 - [CPU 스케줄러](Operating-System/CPU-Scheduling.md)
 - [동기와 비동기의 차이](Operating-System/Sync-Async.md)
 - [프로세스 동기화](Operating-System/Process-Synchronization.md)
-- 메모리 관리 전략 
-- 가상 메모리
-- 캐시의 지역성 
+- [메모리 관리 전략](Operating-System/메모리 관리 전략.md)
+- [가상 메모리](Operating-System/가상 메모리.md)
+- [캐시의 지역성](Operating-System/캐시의 지역성.md)
