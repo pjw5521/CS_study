@@ -16,3 +16,11 @@ https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 - [메모리 관리 전략](https://github.com/pjw5521/CS_study/blob/main/Operating-System/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC%20%EC%A0%84%EB%9E%B5.md)
 - [가상 메모리](https://github.com/pjw5521/CS_study/blob/main/Operating-System/%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
 - [캐시의 지역성](https://github.com/pjw5521/CS_study/blob/main/Operating-System/%EC%BA%90%EC%8B%9C%EC%9D%98%20%EC%A7%80%EC%97%AD%EC%84%B1.md)
+
+### <summary>Network (네트워크)</summary>
+- [HTTP의 GET과 POST 비교]()
+- [TCP 3-way-handshake]()
+- [TCP와 UDP의 비교]()
+- [HTTP와 HTTPS]()
+- [DNS Round Robin 방식](Network/DNS-Round-Robin.md)
+- [웹 통신의 큰 흐름](Network/웹통신의-큰흐름.md)
