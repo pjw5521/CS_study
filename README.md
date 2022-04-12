@@ -18,10 +18,10 @@ https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 - [캐시의 지역성](https://github.com/pjw5521/CS_study/blob/main/Operating-System/%EC%BA%90%EC%8B%9C%EC%9D%98%20%EC%A7%80%EC%97%AD%EC%84%B1.md)
 
 ### <summary>Network (네트워크)</summary>
-- [HTTP의 GET과 POST 비교]()
-- [TCP 3-way-handshake]()
-- [TCP와 UDP의 비교]()
-- [HTTP와 HTTPS]()
+- [HTTP의 GET과 POST 비교](Network/HTTP의-GET과-POST비교.md)
+- [TCP 3-way-handshake](Network/TCP 3-way-handshake.md)
+- [TCP와 UDP의 비교](Network/TCP와-UDP의-비교.md)
+- [HTTP와 HTTPS](Network/HTTP와-HTTPS.md)
 - [DNS Round Robin 방식](Network/DNS-Round-Robin.md)
 - [웹 통신의 큰 흐름](Network/웹통신의-큰흐름.md)
 
