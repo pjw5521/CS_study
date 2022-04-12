@@ -19,7 +19,7 @@ https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 
 ### <summary>Network (네트워크)</summary>
 - [HTTP의 GET과 POST 비교](Network/HTTP의-GET과-POST비교.md)
-- [TCP 3-way-handshake](Network/TCP 3-way-handshake.md)
+- [TCP 3-way-handshake](Network/TCP_3-way-handshake.md)
 - [TCP와 UDP의 비교](Network/TCP와-UDP의-비교.md)
 - [HTTP와 HTTPS](Network/HTTP와-HTTPS.md)
 - [DNS Round Robin 방식](Network/DNS-Round-Robin.md)
