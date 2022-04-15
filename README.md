@@ -25,3 +25,12 @@ https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 - [DNS Round Robin 방식](Network/DNS-Round-Robin.md)
 - [웹 통신의 큰 흐름](Network/웹통신의-큰흐름.md)
 
+### <summary>Development common sense (개발상식)</summary>
+- [좋은 코드란 무엇인가]()
+- [객체 지향 프로그래밍이란 무엇인가]()
+- [객체 지향 개발 원칙은 무엇인가?]()
+- [RESTful API 란](Development-common-sense/RESTful-API란.md)
+- [TDD 란 무엇이며 어떠한 장점이 있는가]()
+- [함수형 프로그래밍]()
+- [MVC 패턴이란 무엇인가?]()
+- [Git 과 GitHub 에 대해서]()
