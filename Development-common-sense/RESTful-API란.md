@@ -6,7 +6,8 @@
     - REST는 기본적으로 웹의 기존 기술과 HTTP 프로토콜을 그대로 활용하기 때문에 웹의 장점을 최대한으로 활용할 수 있는 아키텍처 스타일
     - REST는 네트워크 상에서 Client와 Server 사이의 통신 방식 중 하나
 - **HTTP URI를 통해 자원을 명시하고, HTTP Method (POST, GET, PUT, DELETE)를 통해 해당 자원에 대한 CRUD  Operation을 적용하는 것**
-> 
+
+>
 > **CRUD Operation**
 > 
 > 
