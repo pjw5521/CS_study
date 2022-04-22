@@ -5,6 +5,9 @@ https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 
 ## 목차 
 - Operating System (운영체제)
+- Network (네트워크)
+- Development Common Sense (개발상식)
+- Database (데이터베이스)
 
 ### <summary>Operating System (운영체제)</summary>
 - [프로세스와 스레드의 차이](Operating-System/Process_Thread_Difference.md)
@@ -33,3 +36,11 @@ https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 - [함수형 프로그래밍]()
 - [MVC 패턴이란 무엇인가?]()
 - [Git 과 GitHub 에 대해서](Development-common-sense/git-github.md)
+
+### <summary>Database (데이터베이스)</summary>
+- [Index]()
+- [정규화에 대해서]()
+- [Transaction]()
+- [교착상태]()
+- [Statement vs PreparedStatement]()
+- [NoSQL]()
