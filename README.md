@@ -38,8 +38,8 @@ https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 - [Git 과 GitHub 에 대해서](Development-common-sense/git-github.md)
 
 ### <summary>Database (데이터베이스)</summary>
-- [Index]()
-- [정규화에 대해서]()
+- [Index](Database/Index.md)
+- [정규화에 대해서](Database/정규화에대하여.md)
 - [Transaction](Database/Transaction.md)
 - [교착상태](Database/Deadlock.md)
 - [Statement vs PreparedStatement]()
