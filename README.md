@@ -40,7 +40,7 @@ https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 ### <summary>Database (데이터베이스)</summary>
 - [Index]()
 - [정규화에 대해서]()
-- [Transaction]()
-- [교착상태]()
+- [Transaction](Database/Transaction.md)
+- [교착상태](Database/Deadlock.md)
 - [Statement vs PreparedStatement]()
 - [NoSQL]()
