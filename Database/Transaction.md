@@ -41,6 +41,8 @@
 </br>
 
 ### 4. 트랜잭션의 상태 
+![transaction-status](https://user-images.githubusercontent.com/43839859/164625817-53373c24-5383-4d18-ab00-f0a3345e742a.png)
+
 **Active**
 - 트랜잭션이 현재 실행 중인 상태
 
