@@ -1,6 +1,7 @@
 - 자바에서 데이터베이스로 쿼리문을 전송할 때, 사용할 수 있는 인터페이스는 2가지가 존재한다.
 ⇒ **Statement**, **PreparedStatement**
 
+
 ## Statement
 
 1) Statement 객체는 Statement 인터페이스를 구현한 객체를 Connection 클래스의 **createStatement()** 메소드를 호출함으로써 얻어진다.
