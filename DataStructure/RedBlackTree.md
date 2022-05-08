@@ -68,9 +68,9 @@ Double Red가 발생했을 때
 
 1. 새로운 노드(N)의 부모(P)와 삼촌(U)을 검은색으로 바꾸고 조상(G)을 빨간색으로 바꾼다.
 
-1-1. 조상(G)이 루트 노드라면 검은색으로 바꾼다.
+2. 조상(G)이 루트 노드라면 검은색으로 바꾼다.
 
-1-2. 조상(G)을 빨간색으로 바꿨을 때 또다시 Double Red가 발생한다면 또다시 Restructuring 혹은 Recoloring을 진행해서 Double Red 문제가 발생하지 않을 때까지 반복한다.
+3. 조상(G)을 빨간색으로 바꿨을 때 또다시 Double Red가 발생한다면 또다시 Restructuring 혹은 Recoloring을 진행해서 Double Red 문제가 발생하지 않을 때까지 반복한다.
 
 ### **삽입**
 
