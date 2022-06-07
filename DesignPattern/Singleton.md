@@ -18,3 +18,20 @@
 싱글톤 인스턴스가 혼자 너무 많은 일을 하거나, 많은 데이터를 공유시키면 다른 클래스들 간 결합도가 높아지게 되는데, 이때 개방-폐쇄 원칙이 위배된다.
 - 결합도가 높아지게 되면, 유지보수가 힘들고 테스트도 원활하게 진행할 수 없는 문제점이 발생한다.
 - 멀티 스레드 환경에서 동기화 처리를 하지 않았을 때, 인스턴스가 2개 생성되는 문제도 발생할 수 있다.
+
+## 파이썬으로 구현한 싱글톤 패턴 (참고)
+
+```python
+class Singleton(object):
+
+	""" Definition of Singleton Pattern """
+    
+    def __new__(cls):
+    	if not hasattr(cls, 'instance'):
+        	cls.instance = super(Singleton, cls).__new__(cls)
+        return cls.instance
+```
+
+- 파이썬 매직 메서드인 __new__를 오버라이드해서 객체 생성
+- Singleton 클래스가 hasattr을 통해 instance가 존재하는지 확인. 
+없으면 새로 생성해주고 있으면 기존의 인스턴스를 반환 후 재사용
